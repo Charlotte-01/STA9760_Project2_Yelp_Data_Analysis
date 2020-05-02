@@ -13,4 +13,4 @@ Part IV: Should the Elite be Trusted?
 ## Cluster and Notebook Configs
 
 ![notebook](https://github.com/Charlotte-01/STA9760_Project2_Yelp_Data_Analysis/blob/master/notebook.png?raw=true)
-![cluster](https://github.com/mottaquikarim/STA9760_Project2_Yelp_Data_Analysis/blob/master/cluster.png?raw=true)
+![cluster](https://github.com/Charlotte-01/STA9760_Project2_Yelp_Data_Analysis/blob/master/cluster.png?raw=true)
